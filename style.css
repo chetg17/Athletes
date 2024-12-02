@@ -23,16 +23,14 @@
     position: absolute;
     top: 84px;
     right: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
     width: 32px;
-    border-radius: 15px 15px 15px 15px;
     height: 32px;
+    border-radius: 15px 15px 15px 15px;
     background: #FFFFFF;
     font-family: Arial;
-    font-size: 16px;
-    line-height: 18.4px;
-    text-align: center;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #8B0000;
 }
 .name{
